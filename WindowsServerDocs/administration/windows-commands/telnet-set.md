@@ -33,7 +33,7 @@ set [bsasdel] [crlf] [delasbs] [escape <Char>] [localecho] [logfile <FileName>] 
 |localecho|Turns on local echo.|  
 |logfile <FileName>|Logs the current telnet session to the local file. Logging begins automatically when you set this option.|  
 |logging|Turns on logging. If no log file is set, an error message appears.|  
-|mode {console &#124; screen}|Sets the operation mode.|  
+|mode {console &#124; stream}|Sets the operation mode.|  
 |ntlm|Turns on NTLM authentication.|  
 |term {ansi &#124; vt100 &#124; vt52 &#124; vtnt}|Sets the terminal type.|  
 |?|Displays help for this command.|  
